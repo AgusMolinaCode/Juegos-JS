@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(169, 240, 240);
+}
+
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
